@@ -1,5 +1,5 @@
 # Warning:
-> This project was written using a smartphone, yes, I used the text editor from sololearn app, the app I used to learn programming, and it doesn't have the option to separate files so I wrote whole javascript in a single file.
+> This a old project from November,2021. this project was written using a smartphone, yes, I used the text editor from sololearn app, the app I used to learn programming lanuages and web development, and it doesn't have the option to separate files so I wrote whole javascript in a single file.
 
 ## Description
 
